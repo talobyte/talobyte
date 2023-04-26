@@ -5,7 +5,7 @@
 I'm a self-taught full-stack developer based in Australia, dedicated to building innovative solutions through code. With a passion for problem-solving, I take pride in crafting projects from the ground up, utilizing my skills in both front-end and back-end development. My drive to learn and experiment with new technologies ensures that I stay up-to-date with the latest trends in the industry. Whether I'm creating a new app or building a website, I put the same level of thought and planning into my work, ensuring that each project is executed with precision and attention to detail. Oh and also I own a company called Aura Development, go check it out! "[https://www.facebook.com/profile.php?id=100090430009055][youtube]".
 
    <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+      <a href="https://www.youtube.com/c/auradevelopment?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/auradevelopment">
       <a href="https://github.com/alphaotuken?tab=followers">
