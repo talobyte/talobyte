@@ -2,7 +2,7 @@
 
 **`(Web/App Developer, UX/UI Designer, Cyber Security Enthusiast)`**
 
-I'm a self-taught full-stack developer based in Australia, dedicated to building innovative solutions through code. With a passion for problem-solving, I take pride in crafting projects from the ground up, utilizing my skills in both front-end and back-end development. My drive to learn and experiment with new technologies ensures that I stay up-to-date with the latest trends in the industry. Whether I'm creating a new app or building a website, I put the same level of thought and planning into my work, ensuring that each project is executed with precision and attention to detail. Oh and also I own a company called Aura Development, go check it out! "[https://www.facebook.com/profile.php?id=100090430009055][youtube]".
+I'm a self-taught full-stack developer based in Australia, dedicated to building innovative solutions through code. With a passion for problem-solving, I take pride in crafting projects from the ground up, utilizing my skills in both front-end and back-end development. My drive to learn and experiment with new technologies ensures that I stay up-to-date with the latest trends in the industry. Whether I'm creating a new app or building a website, I put the same level of thought and planning into my work, ensuring that each project is executed with precision and attention to detail. Oh and also I own a company called Aura Development, go check it out! **`https://auradevelopment.com.au/`**
 
    <p align="left">
       <a href="https://github.com/alphaotuken?tab=followers">
