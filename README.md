@@ -9,7 +9,7 @@ I'm a self-taught full-stack developer based in Australia, dedicated to building
 
    <p align="left">
       <a href="https://github.com/alphaotuken?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/taloisik?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/alphaotuken?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/alphaotuken?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/alphaotuken?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
