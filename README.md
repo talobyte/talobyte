@@ -42,9 +42,6 @@ I'm a self-taught full-stack developer based in Australia, dedicated to building
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=alphaotuken&theme=gruvbox&border_radius=4.5) -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alphaotuken-alphaotuken&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
