@@ -41,7 +41,7 @@ I'm a self-taught full-stack developer based in Australia, dedicated to building
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=alphaotuken&show_icons=true&theme=gruvbox)
+![Talo's GitHub stats](https://github-readme-stats.vercel.app/api?username=alphaotuken&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=alphaotuken&theme=gruvbox&border_radius=4.5) -->
 
