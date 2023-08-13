@@ -1,4 +1,4 @@
-# 👨‍💻 Talha Isik
+# Talha Isik
 
 #### **`(Full-Stack Developer, UX/UI Designer, Cyber Security Enthusiast)`**
 
