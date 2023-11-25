@@ -6,7 +6,7 @@ I'm a self-taught full-stack developer based in Australia, dedicated to building
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/taloisik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taloisik" height="30" width="40" /></a>
-<a href="https://instagram.com/taloisik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taloisik" height="30" width="40" /></a>
+<a href="https://instagram.com/txlhaisik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taloisik" height="30" width="40" /></a>
 </p>
 
    <p align="left">
