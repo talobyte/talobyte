@@ -2,7 +2,7 @@
 
 #### **`(Full-Stack Developer, UX/UI Designer, Cyber Security Enthusiast)`**
 
-I'm a self-taught full-stack developer based in Australia, dedicated to building innovative solutions through code. With a passion for problem-solving, I take pride in crafting projects from the ground up, utilizing my skills in both front-end and back-end development. My drive to learn and experiment with new technologies ensures that I stay up-to-date with the latest trends in the industry. Whether I'm creating a new app or building a website, I put the same level of thought and planning into my work, ensuring that each project is executed with precision and attention to detail. Go check out my [Website](https://talhaisik.com/)
+I'm a self-taught programmer based in Australia, dedicated to building innovative solutions through code. With a passion for problem-solving, I take pride in crafting projects from the ground up, utilizing my skills in both front-end and back-end development. My drive to learn and experiment with new technologies ensures that I stay up-to-date with the latest trends in the industry. Whether I'm creating a new app or building a website, I put the same level of thought and planning into my work, ensuring that each project is executed with precision and attention to detail. Go check out my [Website](https://talhaisik.com/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/taloisik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taloisik" height="30" width="40" /></a>
