@@ -1,11 +1,11 @@
 #  Talha Isik
 
-#### **`(Full-Stack Developer, UX/UI Designer, Cyber Security Enthusiast)`**
+#### **`(Cyber Security Student)`**
 
-I'm a self-taught programmer based in Australia, dedicated to building innovative solutions through code. With a passion for problem-solving, I take pride in crafting projects from the ground up, utilizing my skills in both front-end and back-end development. My drive to learn and experiment with new technologies ensures that I stay up-to-date with the latest trends in the industry. Whether I'm creating a new app or building a website, I put the same level of thought and planning into my work, ensuring that each project is executed with precision and attention to detail. Go check out my [Website](https://talhaisik.com/)
+Based in Australia, I'm a self-taught developer with a keen interest in both cyber security and digital innovation, dedicated to building innovative solutions through code. With a passion for problem-solving. Beyond my work, I am passionate about cyber security education, sharing my knowledge and tools with others to help protect their digital worlds. In every project I undertake, my goal is to exceed clients' expectations in innovation, security, and design. My drive to learn and experiment with new technologies ensures that I stay up-to-date with the latest trends in the industry.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/taloisik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taloisik" height="30" width="40" /></a>
+<a href="https://twitter.com/txlhaisik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taloisik" height="30" width="40" /></a>
 <a href="https://instagram.com/txlhaisik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taloisik" height="30" width="40" /></a>
 </p>
 
@@ -51,7 +51,12 @@ I'm a self-taught programmer based in Australia, dedicated to building innovativ
 
 <details>
  <summary><h3>👨‍💻 Talha's Coding Journey</h3></summary>
-   When I was thirteen, I began my coding journey with a strong interest in cyber security and game development. At first, I was naive about the world of coding, but I was eager to learn everything as quickly as possible. Over time, I realized that game development wasn't really for me, so I shifted my focus to creating websites and apps. I built my first website when I was around thirteen and felt fully satisfied with the results. Concurrently, I honed my cyber security skills, creating specific tools and teaching others how to use them as I worked on other projects. As years went by, my passion and skill for web/app development grew, and I eventually co-founded Aura Development with @codewithcodyy. I defined Aura Development as an app/web development company, and I was continuously driven to improve my craft and deliver top-notch results.
+Based in Australia, I'm a self-taught developer with a keen interest in both cyber security and digital innovation. My journey in tech started at thirteen, initially drawn to game development, but it wasn't long before I found my true calling in web/app development and cyber security. Skilled in Python, C, SQL and Kali Linux, I focus not just on creating digital solutions but also on making them secure against threats.
 
-[website]: https://talfolio.com
-[contact]: talo@auradevelopment.com.au
+Co-founding Aura Development was a significant milestone in my career. My partner and I dedicated ourselves to providing complete web and app solutions, focusing on development and design, for individuals in need of digital assistance. Our work at Aura Development, now a former company, reflects our commitment to delivering projects that are visually attractive, functional, and secure.
+
+Beyond my work, I am passionate about cyber security education, sharing my knowledge and tools with others to help protect their digital worlds. In every project I undertake, my goal is to exceed clients' expectations in innovation, security, and design.
+
+I am committed to continuous learning and keeping up with the latest tech trends, aiming to lead and inspire in the dynamic world of digital technology. My path from a curious teen to a professional in cyber security and development shows my dedication to creating solutions that are not just effective but secure and forward-looking.
+
+[contact]: contact@talhaisik.com
