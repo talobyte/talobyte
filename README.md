@@ -1,6 +1,6 @@
 #  Talha Isik
 
-#### **`(Cyber Security Student)`**
+#### **`(Cyber Security Student & Entrepreneur)`**
 
 Based in Australia, I'm a self-taught developer with a keen interest in both cyber security and digital innovation, dedicated to building innovative solutions through code. With a passion for problem-solving. Beyond my work, I am passionate about cyber security education, sharing my knowledge and tools with others to help protect their digital worlds. In every project I undertake, my goal is to exceed clients' expectations in innovation, security, and design. My drive to learn and experiment with new technologies ensures that I stay up-to-date with the latest trends in the industry.
 <h3 align="left">Connect with me:</h3>
