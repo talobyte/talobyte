@@ -20,8 +20,8 @@ Based in Australia, I'm a self-taught developer with a keen interest in both cyb
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -49,5 +49,6 @@ Based in Australia, I'm a self-taught developer with a keen interest in both cyb
 <details>
  <summary><h3>👨‍💻 Talha's Coding Journey</h3></summary>
 Based in Australia, I'm a self-taught developer with a keen interest in both cyber security and digital innovation. My journey in tech started at thirteen, initially drawn to game development, but it wasn't long before I found my true calling in web/app development and cyber security. Skilled in Python, C, SQL and Kali Linux, I focus not just on creating digital solutions but also on making them secure against threats. Co-founding Aura Development was a significant milestone in my career. My partner and I dedicated ourselves to providing complete web and app solutions, focusing on development and design, for individuals in need of digital assistance. Our work at Aura Development, now a former company, reflects our commitment to delivering projects that are visually attractive, functional, and secure. Beyond my work, I am passionate about cyber security education, sharing my knowledge and tools with others to help protect their digital worlds. In every project I undertake, my goal is to exceed clients' expectations in innovation, security, and design. I am committed to continuous learning and keeping up with the latest tech trends, aiming to lead and inspire in the dynamic world of digital technology. My path from a curious teen to a professional in cyber security and development shows my dedication to creating solutions that are not just effective but secure and forward-looking.
+
 
 [contact]: contact@talhaisik.com
