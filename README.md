@@ -1,4 +1,4 @@
-#  Talha Isik
+#  Mehmet (Talha) Isik
 
 #### **`(Cyber Security Student & Entrepreneur)`**
 
