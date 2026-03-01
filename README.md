@@ -33,12 +33,6 @@ Based in Australia, I'm a self-taught developer with a keen interest in both cyb
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-#
-
-### 📊 Stats
-
-![Talo's GitHub stats](https://github-readme-stats.vercel.app/api?username=talobyte&show_icons=true&theme=gruvbox)
-
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=alphaotuken&theme=gruvbox&border_radius=4.5) -->
 
 ### ✍️ Random Dev Quote
